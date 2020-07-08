@@ -36,9 +36,9 @@
     "rxjs": "^6.5.4",
     "typeorm": "^0.2.24",
     "uuid": "^7.0.3",
-    "@nestjs/cli": "^6.13.2",
   },
   "devDependencies": {
+    "@nestjs/cli": "^6.13.2",
     "@nestjs/common": "^6.10.14",
     "@nestjs/schematics": "^6.8.1",
     "@nestjs/testing": "^6.10.14",
